@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 62167bce238059c48b17ae0c09ea2f45, type: 3}
+  m_Name: MainButton
+  m_EditorClassIdentifier: 
+  mainButtoncount: 60000
+  ExpCount: 26
+  mainButtonCountText: 5
+  ExpCountText: 5
+  mainMultiplier: 5.5
+  ExpMultiplier: 5.5
+  ClicksTillNextLevel: 262
+  BonusAmount: 2
+  BoughtMultiplier: 1
+  BuyEXPMultiplier: 30000
+  BuyCOUNTMultiplier: 1500
+  IncreaseAdRewardAmount: 1150
+  MainVolume: 1
+  MusicVolume: 1
+  SfxandUIVolume: 1
